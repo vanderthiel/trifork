@@ -1,0 +1,23 @@
+{
+  "name": "trifork-demo-hlf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin van der Thiel",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "core-js": "^2.5.6",
+    "express": "^4.16.3",
+    "fabric-ca-client": "^1.1.2",
+    "fabric-client": "^1.1.2",
+    "mongoose": "^5.1.1",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5",
+    "rxjs": "^6.1.0"
+  }
+}
